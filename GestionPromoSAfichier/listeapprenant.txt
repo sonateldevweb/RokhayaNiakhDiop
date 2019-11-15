@@ -1,0 +1,7 @@
+0126;gueye;soda;1995-09-22;782589475;sodadosa@gmail.com;exclure;000018;
+0123;Diop;Rokhaya;1997-12-26;781766172;rokhina2612@gmail.com;present;000018;
+0124;Diagne;Ndioba;1997-02-08;774569236;ndiobadiagne@gmail.com;exclure;000019;
+0125;Ndiongue;Mame Léna;1996-04-05;778956625;nabienne@gmail.com;present;000018;
+00112;kandji;kara;1997-03-03;77859647;modoukara@gmail.com;present;000018;
+4562233;fall;kara;1996-02-03;778812202;ndiayefatou@gmail.com;present;000021;
+01555;diop;kya;2019-07-03;7777554556;sdfghjn@gm;present;000019;

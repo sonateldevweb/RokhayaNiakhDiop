@@ -1,0 +1,8 @@
+diop;rokhaya;kya;niakh;771766172;darou salam6;admin;<button class="btn btn-danger btn-sm" disabled="disabled" name="submit">bloquer</button>
+niang;fatou;fatousha;fatoudev;771560014;cite mermoz;admin;<button class="btn btn-danger btn-sm">bloquer</button>
+khady;dgfgfgf;hhhh;ddttt;774585555;dakar;user;<button class="btn btn-danger btn-sm">bloquer</button>
+Léna;Mouhsinatou;kyqggg;ldevwev;762245735;km;user;<button class="btn btn-success btn-sm">debloquer</button>
+diagne;ndioba;gggggg;diagne97;774859632;castor;user;<button class="btn btn-success btn-sm">debloquer</button>
+faye;fatoumata;fgjuidhhg;fattoufa;77555444;dakar;user;<button class="btn btn-danger btn-sm">bloquer</button>
+yacine;academy;devweb;jgjhjhj;44556622222;gjgjjhjhj;user;<button class="btn btn-danger btn-sm">bloquer</button>
+fall;fall1235;482221;fall99;771486324;dakar;user

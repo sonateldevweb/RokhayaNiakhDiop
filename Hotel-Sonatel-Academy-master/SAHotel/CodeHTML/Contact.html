@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en6fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../CodeCSS/main.css">
+    <title>Contact</title>
+</head>
+<body>
+    <p id="SAHotel">
+        <img src="../image/logo.png" alt="">
+    </p>
+    <nav>
+            <nav>
+                <label for="Tel" class="tel">Menu</label>
+                <input type="checkbox" id="Tel" role="button">
+                <ul>
+                    <li><a href="Acceuil.html">Acceuil</a></li>
+                <li><a href="Chambre.html">Chambre</a></li>
+                <li><a href="Tarifs.html">Tarif</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </nav>
+    <div id="conteneur_contact">
+            <h2> Formulaire de renseignements</h2>
+        <table>
+            <tr>
+                <td colspan="2" class="top">Afin de vous renseigner sur les disponibilités d'accueil,<br>
+                    nous vous remercions de compléter le formulaire ci-dessous
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgarrival">
+                    <label for="arrival">Date d'arrivée prévue</label>
+                </td>
+
+                <td id="Bgarrival1">
+                    <input type="text" name="arrival" class="arrival" maxlength="2" required> /
+                    <input type="text" name="arrival" class="arrival" maxlength="2" required> /
+                    <input type="text" name="arrival" class="arrival" maxlength="2" required> /
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bggo">
+                    <label for="go">Date de départ prévue</label>
+                </td>
+
+                <td id="Bggo1">
+                    <input type="text" name="go" id="go" maxlength="2" required> 
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgnumberadult">
+                    <label for="numberadult">Nombre d'adultes</label>
+                </td>
+                <td id="Bgnumberadult1">
+                    <input type="text" name="numberadult" id="numberadult" maxlength="2" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgnumberchild">
+                    <label for="numberchild">Nombre d'enfants</label>
+                </td>
+                <td id="Bgage">
+                    <input type="text" name="numberchild" id="numberchild" maxlength="2" required>
+                    <label for="age">Âge(s)</label>
+                    <input type="text" name="age" id="age" maxlength="2" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgnumberbedroom">
+                    <label for="numberbedroom">Nombre de chambres souhaitées</label>
+                </td>
+                <td id="Bgnumberbedroom1">
+                     <input type="text" name="numberbedroom" id="numberbedroom" maxlength="2" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" id="radio">
+                    <input type="radio" id="Mr" name="nobody" value="Mr" checked>
+                        <label for="Mr">Mr.</label>
+                    <input type="radio" id="Mlle" name="nobody" value="Mlle">
+                         <label for="Mlle">Mlle</label>
+                     <input type="radio" id="Mme" name="nobody" value="Mme">
+                        <label for="Mme">Mme</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgnom">
+                    <label for="nom">Nom</label>
+                </td>
+                <td id="Bgnom1">
+                    <input type="text" name="nom" id="nom" maxlength="12" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgprenom">
+                    <label for="prenom">Prénom</label>
+                </td>
+                <td id="Bgprenom1">
+                    <input type="text" name="prenom" id="prenom" maxlength="12" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgtel">
+                    <label for="tel">Téléphone</label>
+                </td>
+                <td id="Bgtel1">
+                    <input type="text" name="tel" id="tel" maxlength="10" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgfax">
+                    <label for="fax">Fax</label>
+                </td>
+                <td id="Bgfax1">
+                    <input type="text" name="fax" id="fax" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgadresse">
+                    <label for="adresse">Adresse</label>
+                </td>
+                <td id="Bgadresse1">
+                    <input type="text" name="adresse" id="adresse" maxlength="15" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgmail">
+                    <label for="mail">Email</label>
+                </td>
+                <td id="Bgmail1">
+                    <input type="email" name="mail" id="mail" required>
+                </td>
+            </tr>
+
+            <tr>
+                <td id="Bgmsg">
+                    <label for="msg">Message</label>
+                </td>
+                <td id="Bgmsg1">
+                    <textarea name="msg" id="msg">Saisir un texte</textarea>
+                </td>
+            </tr>
+        </table> <br>
+
+        <div>
+            <input type="submit" value="Envoyer" id="submit">
+        </div>
+
+    </div> <br>
+
+    
+
+    <div id="contentfooter"></div>
+   <div id="footer"> 
+       <footer>Copiright © Sonatel Academy-2019</footer>
+   </div>
+</body>
+</html>

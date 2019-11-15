@@ -1,0 +1,8 @@
+costume;50000;18
+pantalon;6000;50;
+cravate;2000;60;
+robe;30000;35;
+jupe;15000;25;     
+chaussure;10000;80;
+costume;50000;18
+voille;1000;7
